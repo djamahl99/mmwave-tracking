@@ -1,0 +1,4 @@
+*.p
+*/__pycache__
+.vscode/
+wandb/
